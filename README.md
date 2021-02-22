@@ -2,6 +2,6 @@ KubanAvtoservice
 
 ## Авторы
 
-* **Юсупов Рустам** - *Initial work* - [PurpleBooth](https://github.com/Adyg01)
+* **Юсупов Рустам** - *Initial work* - [KubanAvtoservice](https://github.com/Adyg01)
 
 
